@@ -39,7 +39,7 @@
   grid-column: 2/3;
 }
 
-.address{
+.address {
   font-style: normal;
   font-size: 18px;
   font-weight: 400;
@@ -50,9 +50,8 @@
 .header__address {
   justify-self: end;
   align-self: start;
-  padding: 5px 0 0 ;
+  padding: 5px 0 0;
 }
-
 
 .address-link {
   text-decoration: none;
@@ -312,7 +311,6 @@
 
 .footer__menu-list-item {
   list-style: none;
-  
 }
 
 .footer__menu-link {
